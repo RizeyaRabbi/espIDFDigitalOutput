@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.ino": "arduino-output",
+        "*.py": "python",
+        "esp_rom_gpio.h": "c",
+        "gpio.h": "c"
+    }
+}
